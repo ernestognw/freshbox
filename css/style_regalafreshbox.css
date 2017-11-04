@@ -1515,7 +1515,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .split-image-1 {
-	background: url(../images/ejemplo-regalo.jpg);
+	background: url(../images/ejemplo-regalo.JPG);
 	background-size: cover;	
 	background-position: center;
 
